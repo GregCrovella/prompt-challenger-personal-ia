@@ -121,3 +121,140 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Claro, vou te ajudar a montar um plano de treino e dieta ideal para o mês, com base nas variáveis que você forneceu. Vamos começar por definir a rotina de treinos e a alimentação apropriada para cada biotipo e tipo de treino. Vou detalhar isso conforme as regras estabelecidas.
+
+1. Identificação do Biotipo e Tipo de Treino
+Vamos usar as variáveis fornecidas para identificar o biotipo, os dias disponíveis para o treino e o tipo de treino.
+
+Biotipo:
+Ectomorfo: Corpo mais magro, dificuldade para ganhar peso e massa muscular.
+Mesomorfo: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+Endomorfo: Corpo com tendência a acumular gordura, dificuldade em perder peso.
+
+Dias Disponíveis para o Treino:
+1 dia: Treino Corpo Inteiro
+3 dias: Treino ABC
+5 dias: Treino ABCDE
+
+Tipos de Treino:
+
+Funcional: Melhora a funcionalidade do corpo, usando movimentos naturais.
+Maquinário: Foco em isolar grupos musculares.
+Peso Livre: Trabalha vários grupos musculares simultaneamente.
+Cardio: Melhora a resistência cardiovascular.
+HIIT: Treinos intervalados de alta intensidade para queima de gordura.
+
+Tipos de Alimentos:
+
+Ectomorfo: Alta quantidade de carboidratos.
+Mesomorfo: Alta quantidade de proteínas.
+Endomorfo: Equilíbrio entre carboidratos e proteínas, focando em menor quantidade de carboidratos.
+
+2. Estrutura do Treino para 20 Dias
+Treinos para um Mês de 20 Dias:
+
+Treino Corpo Inteiro (1 dia)
+
+Segunda-feira: Treino Corpo Inteiro
+Treino ABC (3 dias)
+Terça-feira: Treino A (Peito, Ombros e Tríceps)
+Quinta-feira: Treino B (Costas e Bíceps)
+Sábado: Treino C (Pernas e Abdômen)
+Treino ABCDE (5 dias)
+
+Segunda-feira: Treino A (Peito)
+Terça-feira: Treino B (Costas)
+Quarta-feira: Treino C (Pernas)
+Quinta-feira: Treino D (Ombros)
+Sexta-feira: Treino E (Braços e Abdômen)
+
+Distribuição dos Dias:
+Treino Corpo Inteiro: 1 dia
+Treino ABC: 3 dias
+Treino ABCDE: 5 dias
+
+Dias Restantes: 11 dias podem ser usados para descanso ou treinos adicionais, dependendo da necessidade individual.
+
+3. Plano de Treino Ideal por Biotipo e Tipo de Treino
+Vamos definir um plano de treino ideal com base no biotipo e tipo de treino especificado:
+
+1. Ectomorfo:
+Objetivo: Ganho de massa muscular
+
+Treino Ideal: Peso Livre e Maquinário
+
+Segunda-feira: Corpo Inteiro (Peso Livre)
+Terça-feira: ABC (Peso Livre)
+Quinta-feira: ABC (Maquinário)
+Sábado: ABCDE (Peso Livre)
+
+Dieta:
+
+Carboidratos: Alta quantidade, cerca de 60-70% das calorias diárias
+Proteínas: Moderada, cerca de 15-20% das calorias diárias
+
+2. Mesomorfo:
+Objetivo: Manutenção e definição muscular
+
+Treino Ideal: Peso Livre e HIIT
+
+Segunda-feira: Corpo Inteiro (Peso Livre + HIIT)
+Terça-feira: ABC (Peso Livre)
+Quinta-feira: ABC (HIIT)
+Sábado: ABCDE (Peso Livre)
+
+Dieta:
+
+Proteínas: Alta quantidade, cerca de 25-30% das calorias diárias
+Carboidratos: Moderada, cerca de 40-50% das calorias diárias
+
+3. Endomorfo:
+Objetivo: Redução de gordura e ganho muscular
+
+Treino Ideal: HIIT e Funcional
+
+Segunda-feira: Corpo Inteiro (HIIT)
+Terça-feira: ABC (Funcional)
+Quinta-feira: ABC (HIIT)
+Sábado: ABCDE (Funcional)
+
+Dieta:
+
+Carboidratos: Menor quantidade, cerca de 30-40% das calorias diárias
+Proteínas: Alta quantidade, cerca de 30-35% das calorias diárias
+
+4. Exemplo de Plano de Treino para um Ectomorfo:
+Segunda-feira: Treino Corpo Inteiro
+
+Aquecimento: 10 min de Cardio leve
+Agachamento com Barra: 4x8
+Supino Reto com Barra: 4x8
+Remada com Halteres: 4x8
+Desenvolvimento com Halteres: 4x8
+Rosca Direta: 3x10
+Abdominais: 3x15
+Terça-feira: Treino ABC (Peso Livre)
+
+Peito: Supino Reto, Supino Inclinado
+Ombros: Desenvolvimento com Barra, Elevações Laterais
+Tríceps: Mergulho, Extensão de Tríceps
+Quinta-feira: Treino ABC (Maquinário)
+
+Costas: Pulley, Remada Baixa
+Bíceps: Rosca Scott, Rosca Alternada
+Abdômen: Crunch, Elevação de Pernas
+Sábado: Treino ABCDE (Peso Livre)
+
+Peito: Supino Reto, Supino Inclinado
+Costas: Barra Fixa, Remada com Halteres
+Pernas: Agachamento, Leg Press
+Ombros: Desenvolvimento com Halteres, Face Pull
+Braços: Rosca Direta, Tríceps Testa
+
+Com essas diretrizes, você pode ajustar a intensidade e a duração dos treinos conforme a necessidade e a resposta do seu corpo. A alimentação deve acompanhar o plano de treino para maximizar os resultados.
+
+
+
+
+
